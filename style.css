@@ -1,0 +1,22 @@
+.services-info{
+    display: flex;
+    align-items: center;
+}
+
+
+.services-text h2{
+    font-size: 36px;
+}
+
+
+.services-text{
+    padding-right: 140px;
+}
+
+.services-image{
+    width: 35%;
+}
+
+#ror{
+    width: 30%;
+}
